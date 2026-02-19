@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Find The Answer",
+  "base_artist": "嵐",
+  "createdAt": "2026-02-19T12:13:21.626419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Find the Answer Within",
+      "artist": "The Boo Radleys",
+      "has_synced": false,
+      "path": "select/01_Find_the_Answer_Within_The_Boo_Radleys.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time Will Find The Answer",
+      "artist": "John Norum",
+      "has_synced": true,
+      "path": "select/02_Time_Will_Find_The_Answer_John_Norum.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Time Will Find The Answer (Album Version)",
+      "artist": "John Norum",
+      "has_synced": true,
+      "path": "select/03_Time_Will_Find_The_Answer_(Album_Version)_John_Norum.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "!¡! find the answer ¡!¡",
+      "artist": "six impala",
+      "has_synced": true,
+      "path": "select/04_!¡!_find_the_answer_¡!¡_six_impala.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Won't Find the Answer",
+      "artist": "The Angels",
+      "has_synced": true,
+      "path": "select/05_You_Won't_Find_the_Answer_The_Angels.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Find the Answer Within",
+      "artist": "Boo Radleys, The",
+      "has_synced": false,
+      "path": "select/06_Find_the_Answer_Within_Boo_Radleys,_The.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Find the Answer",
+      "artist": "Arash",
+      "has_synced": true,
+      "path": "select/07_Find_the_Answer_Arash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Find The Answer Within",
+      "artist": "The Boo Radleys",
+      "has_synced": false,
+      "path": "select/08_Find_The_Answer_Within_The_Boo_Radleys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I’ll Find The Answer",
+      "artist": "DRADNATS",
+      "has_synced": true,
+      "path": "select/09_I’ll_Find_The_Answer_DRADNATS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Find The Answer Within",
+      "artist": "Boo Radleys",
+      "has_synced": false,
+      "path": "select/10_Find_The_Answer_Within_Boo_Radleys.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Find The Answer",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/11_Find_The_Answer_嵐.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Find The Answer",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/12_Find_The_Answer_嵐.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Find The Answer",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/13_Find_The_Answer_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "!¡! find the answer ¡!¡ (Paused)",
+      "artist": "six impala",
+      "has_synced": true,
+      "path": "select/14_!¡!_find_the_answer_¡!¡_(Paused)_six_impala.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Find The Answer",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Find_The_Answer_嵐.txt"
+    }
+  ]
+}
